@@ -7,3 +7,5 @@ Our open source project [phileas](https://github.com/philterd/phileas) is a PII/
 Commercial support and custom NLP models are available.
 
 You can reach out to us at hi@philterd.io for questions or just to say hi.
+
+The philterd repositories are supported and developed by the team at [Mountain Fog](https://www.mtnfog.com).
