@@ -1,0 +1,7 @@
+contact_links:
+  - name: 🤷 Phileas Community Forum
+    url: https://community.philterd.ai/
+    about: Ask and answer Phileas usage questions here.
+  - name: 🔐 Report a Security Issue
+    url: https://www.philterd.ai/open-source-security
+    about: Please e-mail security@philterd.ai. Do not create a public GitHub issue.
