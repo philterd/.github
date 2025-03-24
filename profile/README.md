@@ -2,8 +2,8 @@
 
 Welcome to **philterd**! We specialize in software and techniques for managing sensitive information in text and documents.
 
-Our open source project [phileas](https://github.com/philterd/phileas) is a PII/PHI redaction engine. It was created to identify and manipulate (redact, anonymize, etc.) sensitive information in text. Phileas powers our commercial software products [Philter](https://www.philterd.ai/philter/) and [Phirestream](https://www.philterd.ai/phirestream/). We have open source clients for Philter and Phirestream in a few languages.
+Our open source project [phileas](https://github.com/philterd/phileas) is an open source redaction engine that finds and redacts (encrypt, anonymize, etc.) sensitive information like PII and PHI in text. Phileas powers [Philter](https://www.github.com/philterd/philter), an open source, API-based, turnkey redaction solution.
 
-Commercial support and custom NLP models are available from the [Philterd](https://www.philterd.ai) team.
+Commercial support is available from the [Philterd](https://www.philterd.ai) team.
 
-You can reach out to us at hi@philterd.io for questions or just to say hi.
+Feel free to reach out to us at hi@philterd.ai.
